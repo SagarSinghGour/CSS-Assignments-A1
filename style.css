@@ -1,0 +1,54 @@
+body {
+  display: block;
+  margin-top: 8px;
+}
+h1 {
+  color: red;
+}
+h2 {
+  color: rgb(6, 236, 6);
+  font-style: italic;
+}
+ol {
+  display: block;
+  list-style-type: decimal;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  padding-inline-start: 40px;
+}
+
+li {
+  display: list-item;
+  text-align: match-parent;
+}
+
+li span {
+  background-color: yellow;
+  font-weight: bold;
+}
+.italic {
+  font-style: italic;
+  text-decoration: underline;
+}
+.head {
+  color: red;
+}
+.main {
+  letter-spacing: 5px;
+  color: brown;
+}
+h3 {
+  font-weight: lighter;
+  color: brown;
+}
+.box1 {
+  font-size: xx-small;
+  color: brown;
+}
+.box2{
+    font-style: italic;
+color: brown;
+}
+a{
+    background-color: yellow;
+}
